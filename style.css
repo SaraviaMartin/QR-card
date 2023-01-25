@@ -1,0 +1,19 @@
+*{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 15px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    position: absolute;
+    border-radius: 5px;
+}
+.card p {
+    font-size: 15px;
+    font-weight: 400;
+}
+.card h2{
+    font-size: 20px;
+    font-weight: 700;
+}
